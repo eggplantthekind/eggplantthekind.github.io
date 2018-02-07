@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+## Do you like the truth?
+### Is your name Neel Chauhan?
+#### Do you believe a bunch of stupid lies?
+Well, you are in the right place, then!
