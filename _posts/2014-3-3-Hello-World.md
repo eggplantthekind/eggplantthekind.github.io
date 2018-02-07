@@ -1,9 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Definitions:
 ---
-## Definitions:
-
 ### S:
 ###### SUCK:
 An acronym. Stands for "Superbly Underestimated Cool Kids."
