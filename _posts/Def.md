@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Definitions:
+title: Definitions
 ---
 ### S:
 ###### SUCK:
